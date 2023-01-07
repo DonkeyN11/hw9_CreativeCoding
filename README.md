@@ -1,3 +1,2 @@
 # hw9_CreativeCoding
-This project shows a circle exploring a maze.
-IDE used is processing 3.5.4
+This project create a model to show how an orbit of a satellite changes with four main parameters.
